@@ -1,0 +1,6 @@
+O algoritmo tem de calcular a mutiplicaçao de 9 por um numero se utilizando o truque da tabuada do 9.
+Primeiramente se e feita a entrada de dados, onde o usuário digita o valor de n.
+E depois disso ocorre o processamento. O primeiro digito do resultado e obtido calculando n - 1, e após isso
+e obtido o segundo digito ao calcular 10 - n. Depois, o resultado final e formado multiplicando a dezena por 10
+e somando com a unidade utilizando a expressão: (n-1) x 10 + (10-n).
+E após isso tudo o resultado da mutiplicaçao de 9 por n sera exibido.
